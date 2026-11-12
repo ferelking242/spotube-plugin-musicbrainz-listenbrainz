@@ -30,7 +30,7 @@ jobs:
           channel: stable
 
       - name: Install Hetu compiler
-        run: dart pub global activate hetu_script_dev_tools
+        run: dart pub global activate hetu_script_dev_tools 0.1.0+2
 
       - name: Read plugin metadata
         id: meta

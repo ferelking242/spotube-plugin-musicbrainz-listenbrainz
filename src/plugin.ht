@@ -77,4 +77,4 @@ class BrainzMetadataProviderPlugin {
   }
 }
 
-export { TemplateMetadataProviderPlugin }
+export { BrainzMetadataProviderPlugin }
